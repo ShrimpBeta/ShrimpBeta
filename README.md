@@ -1,7 +1,9 @@
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShrimpBeta&show_icons=true&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
+ <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Anurag's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=ShrimpBeta&show_icons=true&theme=buefy"/><a>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShrimpBeta)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ShrimpBeta&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <!--
 **ShrimpBeta/ShrimpBeta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
