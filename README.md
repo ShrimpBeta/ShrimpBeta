@@ -1,9 +1,9 @@
 
- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShrimpBeta&show_icons=true&theme=buefy)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShrimpBeta&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+ [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShrimpBeta&show_icons=true&theme=buefy&border_radius=25&card_width=400&disable_animations=true)](https://github.com/anuraghazra/github-readme-stats) [![GitHub Streak](https://streak-stats.demolab.com?user=ShrimpBeta&border_radius=25&card_width=400)](https://git.io/streak-stats)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=ShrimpBeta)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShrimpBeta&layout=compact&border_radius=15)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ShrimpBeta&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ShrimpBeta&theme=github-compact&radius=16)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 [![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Shrimp)](https://github.com/anuraghazra/github-readme-stats)
 
