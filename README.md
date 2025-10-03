@@ -9,8 +9,9 @@
         alt="javascript logo" />
     <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"
         alt="typescript logo" />
-    <img src="https://img.shields.io/badge/-Css-663399?style=flat&logo=css&logoColor=white" alt="css logo" />
+    <img src="https://img.shields.io/badge/-CSS-663399?style=flat&logo=css&logoColor=white" alt="css logo" />
     <img src="https://img.shields.io/badge/-Sass-CC6699?style=flat&logo=sass&logoColor=white" alt="sass logo" />
+    <img src="https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white" alt="tailwind css logo" />
     <img src="https://img.shields.io/badge/-Graphql-E10098?style=flat&logo=graphql&logoColor=white"
         alt="graphql logo" />
 </div>
@@ -24,6 +25,9 @@
     <img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white" alt="react logo" />
     <img src="https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vuedotjs&logoColor=white" alt="vue.js logo" />
     <img src="https://img.shields.io/badge/-Svelte-FF3E00?style=flat&logo=svelte&logoColor=white" alt="svelte logo" />
+    <img src="https://img.shields.io/badge/-Nestjs-E0234E?style=flat&logo=nestjs&logoColor=white" alt="nestjs logo" />
+    <img src="https://img.shields.io/badge/-Fastapi-009688?style=flat&logo=fastapi&logoColor=white" alt="fastapi logo" />
+    <img src="https://img.shields.io/badge/-Vite-646CFF?style=flat&logo=vite&logoColor=white" alt="vite logo" />
     <img src="https://img.shields.io/badge/-Dotnet-512BD4?style=flat&logo=dotnet&logoColor=white" alt="dotnet logo" />
     <img src="https://img.shields.io/badge/-Node.js-5FA04E?style=flat&logo=Node.js&logoColor=white"
         alt="node.js logo" />
@@ -51,6 +55,7 @@
     <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="docker logo" />
     <img src="https://img.shields.io/badge/-Podman-892CA0?style=flat&logo=podman&logoColor=white" alt="podman logo" />
     <img src="https://img.shields.io/badge/-Nginx-009639?style=flat&logo=nginx&logoColor=white" alt="nginx logo" />
+    <img src="https://img.shields.io/badge/-Postgresql-4169E1?style=flat&logo=postgresql&logoColor=white" alt="postgresql logo" />
     <img src="https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white"
         alt="kubernetes logo" />
     <img src="https://img.shields.io/badge/-Github-181717?style=flat&logo=github" alt="github logo" />
