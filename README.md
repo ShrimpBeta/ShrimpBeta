@@ -27,13 +27,19 @@
     <img src="https://img.shields.io/badge/-Dotnet-512BD4?style=flat&logo=dotnet&logoColor=white" alt="dotnet logo" />
     <img src="https://img.shields.io/badge/-Node.js-5FA04E?style=flat&logo=Node.js&logoColor=white"
         alt="node.js logo" />
+    <img src="https://img.shields.io/badge/-Deno-70FFAF?style=flat&logo=deno&logoColor=white" alt="deno logo" />
+    <img src="https://img.shields.io/badge/-Bun-000000?style=flat&logo=bun&logoColor=white" alt="bun logo" />
     <img src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat&logo=webpack&logoColor=white"
         alt="webpack logo" />
     <img src="https://img.shields.io/badge/-ESLint-4B32C3?style=flat&logo=eslint" alt="eslint logo" />
 </div>
 <div align="center">
+    <img src="https://img.shields.io/badge/-Markdown-000000?style=flat&logo=markdown&logoColor=white"
+        alt="markdown logo" />
     <img src="https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter&logoColor=white"
         alt="jupyter logo" />
+    <img src="https://img.shields.io/badge/-Asciidoctor-E40046?style=flat&logo=asciidoctor&logoColor=white"
+        alt="asciidoctor logo" />
     <img src="https://img.shields.io/badge/-Latex-008080?style=flat&logo=latex&logoColor=white" alt="latex logo" />
     <img src="https://img.shields.io/badge/-Typst-239DAD?style=flat&logo=typst&logoColor=white" alt="typst logo" />
 </div>
@@ -42,8 +48,6 @@
     <img src="https://img.shields.io/badge/-Helix-281733?style=flat&logo=helix&logoColor=white" alt="helix logo" />
     <img src="https://img.shields.io/badge/-Neovim-57A143?style=flat&logo=neovim&logoColor=white" alt="neovim logo" />
     <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" alt="git logo" />
-    <img src="https://img.shields.io/badge/-Adguard-68BC71?style=flat&logo=adguard&logoColor=white"
-        alt="adguard logo" />
     <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="docker logo" />
     <img src="https://img.shields.io/badge/-Podman-892CA0?style=flat&logo=podman&logoColor=white" alt="podman logo" />
     <img src="https://img.shields.io/badge/-Nginx-009639?style=flat&logo=nginx&logoColor=white" alt="nginx logo" />
@@ -53,7 +57,9 @@
     <img src="https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white" alt="figma logo" />
 </div>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShrimpBeta&show_icons=true&theme=buefy&border_radius=25&card_width=400&disable_animations=true)](https://github.com/anuraghazra/github-readme-stats) [![GitHub Streak](https://streak-stats.demolab.com?user=ShrimpBeta&border_radius=25&card_width=400)](https://git.io/streak-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShrimpBeta&show_icons=true&theme=buefy&border_radius=25&card_width=400&disable_animations=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=ShrimpBeta&border_radius=25&card_width=400)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShrimpBeta&layout=compact&border_radius=15)](https://github.com/anuraghazra/github-readme-stats)
 
