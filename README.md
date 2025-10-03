@@ -51,6 +51,7 @@
     <img src="https://img.shields.io/badge/-Zed-084CCF?style=flat&logo=zedindustries&logoColor=white" alt="zed logo" />
     <img src="https://img.shields.io/badge/-Helix-281733?style=flat&logo=helix&logoColor=white" alt="helix logo" />
     <img src="https://img.shields.io/badge/-Neovim-57A143?style=flat&logo=neovim&logoColor=white" alt="neovim logo" />
+    <img src="https://img.shields.io/badge/-Warp-01A4FF?style=flat&logo=warp&logoColor=white" alt="warp logo" />
     <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" alt="git logo" />
     <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="docker logo" />
     <img src="https://img.shields.io/badge/-Podman-892CA0?style=flat&logo=podman&logoColor=white" alt="podman logo" />
