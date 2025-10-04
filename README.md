@@ -5,6 +5,7 @@
     <img src="https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white" alt="go logo" />
     <img src="https://img.shields.io/badge/-Rust-000000?style=flat&logo=rust&logoColor=white" alt="rust logo" />
     <img src="https://img.shields.io/badge/-Zig-F7A41D?style=flat&logo=zig&logoColor=white" alt="zig logo" />
+    <img src="https://img.shields.io/badge/-Lua-000080?style=flat&logo=lua&logoColor=white" alt="lua logo" />
     <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white"
         alt="javascript logo" />
     <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"
