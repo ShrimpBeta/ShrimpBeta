@@ -1,5 +1,5 @@
 
-[![My Skills](https://skillicons.dev/icons?i=dart,js,ts,kotlin,python,go,java,cs,rust,zig,lua,css,graphql,latex,angular,react,vue,svelte,astro,nestjs,fastapi,spring,tailwind,sass,reactivex,vite,flutter,nodejs,bun,deno,dotnet,figma,git,github,gradle,docker,kubernetes,obsidian,nginx,postgres,sqlite,postman,neovim,vscode,visualstudio,androidstudio,arch,windows,linux&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=dart,js,ts,kotlin,python,go,java,cs,c,rust,zig,lua,css,graphql,latex,angular,react,vue,svelte,astro,nestjs,fastapi,spring,tailwind,sass,reactivex,vite,flutter,nodejs,bun,deno,dotnet,figma,git,github,gradle,docker,kubernetes,obsidian,nginx,postgres,sqlite,postman,neovim,vscode,visualstudio,androidstudio,arch,windows,linux&theme=light)](https://skillicons.dev)
 
 
 <div align="center">
