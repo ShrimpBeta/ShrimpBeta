@@ -22,16 +22,16 @@
     <img src="https://img.shields.io/badge/-Warp-01A4FF?style=flat&logo=warp&logoColor=white" alt="warp logo" />
 </div>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShrimpBeta&show_icons=true&theme=buefy&border_radius=25&card_width=400&disable_animations=true)](https://github.com/anuraghazra/github-readme-stats) [![GitHub Streak](https://streak-stats.demolab.com?user=ShrimpBeta&border_radius=25&card_width=400)](https://git.io/streak-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alistair-X&show_icons=true&theme=buefy&border_radius=25&card_width=400&disable_animations=true)](https://github.com/anuraghazra/github-readme-stats) [![GitHub Streak](https://streak-stats.demolab.com?user=Alistair-X&border_radius=25&card_width=400)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShrimpBeta&layout=compact&border_radius=15)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alistair-X&layout=compact&border_radius=15)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ShrimpBeta&theme=github-compact&radius=16)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Alistair-X&theme=github-compact&radius=16)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 [![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Shrimp)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
-**ShrimpBeta/ShrimpBeta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Alistair-X/Alistair-X** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
